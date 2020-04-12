@@ -1,0 +1,17 @@
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    height: auto;
+    
+    justify-content: center;
+}
+
+.fluid-container{ 
+    text-align: center;
+    display: inline-block;
+    padding: 10px 10px 10px 10px;
+}
+.card {
+    height:60vh;
+    width: 40vh;
+}
